@@ -1,0 +1,308 @@
+{
+    "header": {
+        "home": "Accueil",
+        "about": "À propos",
+        "domaine": {
+            "title": "Domaines d’expertise"
+        },
+        "contact": "Contactez-nous",
+        "team": "Équipe",
+        "publication": "Publication",
+        "support": "Contactez-nous 24h/24 7j/7j",
+        "login": "Connexion"
+    },
+    "home": {
+        "navbar2": {
+            "title": "Domaines juridiques",
+            "familleaux": {
+                "title": "Litiges familiaux au Maroc",
+                "text": "Les affaires familiales, telles que les divorces, les gardes d’enfants, ou les conflits entre membres de la famille, sont régies par le Code de la famille (Moudawana). La médiation et la conciliation sont souvent privilégiées avant le recours aux tribunaux."
+            },
+            "accident": {
+                "title": "Affaires d’accidents de la route",
+                "text": "Les victimes d’accidents de la circulation bénéficient d’un régime d’indemnisation réglementé par la loi marocaine, notamment la loi sur l’assurance obligatoire. Les procédures d’indemnisation exigent une expertise rigoureuse pour évaluer les préjudices."
+            },
+            "internationales": {
+                "title": "Affaires internationales",
+                "text": "Les litiges impliquant des éléments étrangers, qu’ils concernent la famille, les successions ou les contrats, nécessitent une analyse approfondie des règles de conflit de lois et souvent une coopération judiciaire internationale."
+            },
+            "successorales": {
+                "title": "Affaires successorales",
+                "text": "Le règlement des successions au Maroc s’appuie sur les règles traditionnelles du droit musulman codifiées dans la Moudawana, ainsi que sur le Code civil pour certains aspects patrimoniaux. Les conflits successoraux peuvent se compliquer lorsqu’ils impliquent des biens situés à l’étranger."
+            }
+        },
+        "navbar3": {
+            "procès gagnés": {
+                "titre": "Plus de 1000 procès gagnés",
+                "contenu": "À ce jour, plus de 1 000 clients ont mené à bien des litiges."
+            },
+            "pays": {
+                "titre": "Dans plus de 40 pays",
+                "contenu": "Notre société fournit un soutien juridique dans le Maroc."
+            },
+            "clients": {
+                "titre": "Avec plus de 1000 clients",
+                "contenu": "Nous ne prenons pas de prépaiement, nous fournissons tout le soutien juridique nécessaire."
+            }
+        },
+        "navbar4": {
+            "title": "Cabinet COSTAS",
+            "titre": "Expertise, Anticipation et Défense des Droits dans une Vision Globale",
+            "text": [
+                "Ayant acquis une expérience indéniable dans l’exercice classique de la profession d’avocat, les fondateurs du Cabinet COSTAS se sont fixés pour objectifs la contribution à la mise à niveau de la profession dans le Maroc et à son intégration dans le développement global qu’elle connaît (et que connaissent aussi la Justice et le Droit) au niveau mondial.",
+                "Cette vision est notre cause dans nos institutions ordinales, dans notre action au sein de la société civile, et surtout dans l’exercice quotidien de la profession.",
+                "La profession d’avocat reste pour nous porteuse des valeurs des Droits de l’Homme et de la défense active et sans compromis des droits individuels et collectifs et de la primauté du Droit.",
+                "Le Maroc présente un potentiel économique et social très attrayant. La bonne présentation de ce potentiel implique pour l’avocat de s’ériger en garant des intérêts légaux et légitimes des parties prenantes, en participant à l’instauration et au respect d’un État de Droit.",
+                "Reconnus comme des spécialistes du contentieux et du précontentieux, nous sommes convaincus que notre mission de défense et de conseil ne serait pas complète sans anticiper, appréhender et maîtriser les risques de nos clients.",
+                "C’est pourquoi nous nouons avec eux un partenariat durable qui nous permet d’avoir une vision large et globale de leurs besoins et d’anticiper les risques auxquels ils sont ou seront confrontés. Cet accompagnement par notre Cabinet leur permet d’agir en amont plutôt que de subir l’aléa judiciaire.",
+                "Nous nous appuyons ainsi sur notre pratique des juridictions — qu’elles soient civiles, pénales ou commerciales — et notre expérience du contentieux, afin de déterminer et mettre en place les solutions adaptées aux besoins de chacun de nos clients.",
+                "Notre volonté d’anticiper pour mieux défendre nous conduit tout naturellement à appréhender des problématiques juridiques aujourd’hui fondamentales telles que la responsabilité sociétale des entreprises, le développement durable et le droit pénal international.",
+                "Dans le cadre de notre volonté d’anticiper pour mieux défendre, nous sommes particulièrement attachés à l’ouverture d’esprit et aux initiatives de tous les collaborateurs du Cabinet COSTAS.",
+                "Leurs actions et prises de position sur des problématiques juridiques, telles que la responsabilité sociétale des entreprises, le développement durable et le droit pénal international, représentent l’un des fondements du Cabinet, permettant ainsi de l’ancrer dans la réalité de la société d’aujourd’hui.",
+                "Nous mettons au service de nos clients notre expertise et notre implication personnelle dans chacun des dossiers qui nous sont confiés, et nous nous engageons à être transparents tant dans la stratégie retenue que dans le mode de calcul de nos honoraires."
+            ]
+        }
+    },
+    "email": {
+        "title": "Nous répondrons à toutes les questions juridiques qui vous concernent dans les meilleurs délais.",
+        "subtitle": "Consultation",
+        "form": {
+            "name": "Nom",
+            "email": "Mail",
+            "phone": "Téléphone",
+            "subjectPlaceholder": "Héritage",
+            "subjectOptions": {
+                "heritage": "Héritage",
+                "accident": "Accident",
+                "contrat": "Paiements d'assurance",
+                "autre": "Autre"
+            },
+            "message": "Message",
+            "send": "Envoyer",
+            "sending": "Envoi en cours...",
+            "success": "✅ Merci pour votre message. Nous l’avons bien reçu et un avocat vous contactera dans les plus brefs délais.",
+            "error": "❌ Erreur réseau. Veuillez réessayer plus tard."
+        }
+    },
+    "footer": {
+        "description": "Cabinet d'avocats spécialisé avec plus de 20 ans d'expérience. Services juridiques de qualité supérieure.",
+        "expertise": {
+            "title": "Domaines d'Expertise",
+            "list": [
+                "Droit des Affaires",
+                "Droit de la Famille",
+                "Droit Pénal",
+                "Droit Immobilier"
+            ]
+        },
+        "contact": {
+            "title": "Contact",
+            "phone": "+212 5 22 30 07 25",
+            "email": "contact@cabinetcostas.net",
+            "hours": [
+                "Lun – Ven: 8h30 - 18h30",
+                "Sam: 10h00 - 14h00"
+            ],
+            "addressTitle": "Adresse",
+            "address": {
+                "line1": "Avenue des FAR, Rue Mohamed Errachid",
+                "line2": "Iman Center, Etg 7, Apt 4 et 5",
+                "city": "Casablanca 20300, Maroc"
+            }
+        },
+        "rights": "Tous droits réservés."
+    },
+    "about": {
+        "navprops": {
+            "title": "À propos de la Cabinet Avocat Costas"
+        },
+        "cabinetpresentation": {
+            "title": "Cabinet COSTAS",
+            "content": [
+                "Le Cabinet COSTAS, société civile professionnelle d’avocats, est composé d’une équipe de sept avocats confirmés qui se sont associés depuis le 1er janvier 2013.",
+                "La profession d’avocat au Maroc, puisant son enracinement dans des traditions centenaires, a été règlementée pour la première fois par le Dahir du 12 août 1913, formant le 1er Code de Procédure Civile. La loi qui règlemente actuellement la profession date du 20/10/2008.",
+                "La forme de SCPA a été introduite dans la législation marocaine par la loi n°29/08, promulguée par le Dahir du 20 Octobre 2008. Les cabinets ayant choisi cette forme d’exercer sont encore très rares.",
+                "Les associés fondateurs du Cabinet COSTAS ont exercé individuellement pendant un minimum de dix années, avant de se regrouper en SCPA.",
+                "Dès sa création, par le nombre sans précédent de compétences qu’il a regroupées, le Cabinet COSTAS a su s’imposer immédiatement comme une référence, comme en atteste la reconnaissance des professionnels."
+            ],
+            "domains_title": "Domaines d’intervention & Valeurs",
+            "domains_content": [
+                "Le Cabinet assiste ses clients en matière de conseil, d’accompagnement, d’assistance, du précontentieux et du contentieux, dans divers domaines : civil, pénal et commercial. Son originalité repose sur deux spécificités.",
+                "La première réside dans sa méthode proactive qui vise à conseiller ses clients sur la nécessaire anticipation des risques afin de prévenir la mise en jeu potentielle de leur responsabilité.",
+                "La seconde est constituée par la diversification des expertises de son équipe, qui lui permet d’intervenir notamment en droit pénal des affaires, droit des affaires et des entreprises en difficulté, droit du sport, droit de la santé, droit administratif et litiges fiscaux, droit des énergies renouvelables, droit foncier, droit des associations et libertés publiques, droit social…",
+                "Le Cabinet COSTAS est animé par des convictions profondes liées à l’engagement de ses membres dans des domaines comme le développement durable et les Droits de l’Homme. Ses membres ont choisi d’exercer la profession d’avocat en militant pour le respect du Droit, des libertés et de la légalité. Chaque avocat du Cabinet COSTAS en tire un enrichissement et une force supplémentaire pour servir au mieux ses clients, personnes physiques et morales."
+            ]
+        },
+        "propsavocats": {
+            "title": "Spécialisation du Cabinet COSTAS",
+            "content": [
+                "Par le nombre sans précédent de compétences qu’il a regroupées, le Cabinet COSTAS a su s’imposer immédiatement comme une référence nationale, comme en atteste la reconnaissance des professionnels.",
+                "Le Cabinet Costas assiste ses clients en matière de conseil, d’accompagnement, d’assistance, du précontentieux et du contentieux, dans divers domaines : civil, pénal et commercial."
+            ],
+            "counters": {
+                "wonCases": "Affaires gagnées",
+                "lawyers": "Avocats experts",
+                "clients": "Clients satisfaits",
+                "countries": "Pays desservis"
+            }
+        }
+    },
+    "domaines": {
+        "title": "Domaines d’expertise",
+        "array": [
+            {
+                "title": "Litiges successoraux ",
+                "subtitle": "Gestion des successions internationales",
+                "description": "Nous vous accompagnons dans les démarches juridiques liées aux biens situés à l’étranger avec expertise et efficacité."
+            },
+            {
+                "title": "Accidents de la route ",
+                "subtitle": "Indemnisation à l'international",
+                "description": "Obtenez votre indemnisation en cas d'accident à l'étranger avec l'aide de nos avocats spécialisés."
+            },
+            {
+                "title": "Accidents mortels ",
+                "subtitle": "Assistance et indemnisation",
+                "description": "Nous aidons les familles à obtenir justice et indemnisation suite à un décès causé par un accident routier."
+            },
+            {
+                "title": "Droit commercial",
+                "subtitle": "Entreprises et affaires",
+                "description": "Conseil et contentieux en droit des affaires, contrats commerciaux, sociétés, et litiges entre partenaires."
+            },
+            {
+                "title": "Droit de la famille",
+                "subtitle": "Mariage, divorce, garde",
+                "description": "Assistance dans les affaires de divorce, pension alimentaire, garde d'enfants et successions familiales."
+            },
+            {
+                "title": "Droit pénal",
+                "subtitle": "Défense pénale",
+                "description": "Représentation des clients dans les procédures pénales, qu’ils soient accusés ou victimes."
+            },
+            {
+                "title": "Droit du travail",
+                "subtitle": "Employeurs et salariés",
+                "description": "Gestion des conflits de travail, licenciements, contrats, et négociations collectives."
+            },
+            {
+                "title": "Droit public",
+                "subtitle": "Relations avec l'administration",
+                "description": "Contentieux administratifs, fonction publique, urbanisme et marchés publics."
+            },
+            {
+                "title": "Droit fiscal",
+                "subtitle": "Fiscalité des particuliers et entreprises",
+                "description": "Optimisation fiscale, contrôle et contentieux avec l’administration fiscale."
+            },
+            {
+                "title": "Droit international",
+                "subtitle": "Affaires transfrontalières",
+                "description": "Gestion des conflits et contrats impliquant plusieurs pays ou systèmes juridiques."
+            },
+            {
+                "title": "Droit des assurances",
+                "subtitle": "Assurance vie, santé, auto",
+                "description": "Litiges avec les compagnies d’assurance, refus d’indemnisation ou mauvaise évaluation des dommages."
+            },
+            {
+                "title": "Droit de l’environnement",
+                "subtitle": "Écologie et contentieux environnementaux",
+                "description": "Défense des intérêts en cas de pollution, atteinte à l’environnement, ou projets à impact écologique."
+            }
+        ]
+    },
+    "navcontact": {
+        "title": "Contactez-nous"
+    },
+    "cardequipe": {
+        "title": "Notre Équipe",
+        "equipe": [
+            {
+                "name": "Me. Mohamed AGHNAJ",
+                "bar": "Barreau de Casablanca",
+                "since": 1998,
+                "court": "Cour de Cassation",
+                "education": [
+                    "Diplôme en Droit - Université Mohamed ben Abdallah, Fès"
+                ],
+                "positions": [
+                    "Membre du Conseil de l’Ordre des Avocats de Casablanca (2012/2014)",
+                    "Membre du Conseil de l’Ordre des Avocats de Casablanca (2018/2020)",
+                    "Membre du Bureau National de l’Association des Barreaux du Maroc ABAM (2015/2017)"
+                ],
+                "email": "me.aghnaj@cabinetcostas.net",
+                "social": [
+                    "Facebook",
+                    "LinkedIn"
+                ],
+                "image": "equipe.webp"
+            },
+            {
+                "name": "Me. Jilali El FADILI",
+                "bar": "Barreau de Casablanca",
+                "since": 1999,
+                "court": "Cour de Cassation",
+                "education": [
+                    "Diplôme en Droit - Université Hassan II, Casablanca"
+                ],
+                "email": "me.fadili@cabinetcostas.net",
+                "social": [
+                    "Facebook"
+                ],
+                "image": "eq.webp"
+            },
+            {
+                "name": "Me. Lahcen DADSI",
+                "bar": "Barreau de Casablanca",
+                "since": 1999,
+                "court": "Cour de Cassation",
+                "education": [
+                    "Diplôme en Droit - Université Hassan II, Mohammedia",
+                    "Master en Droit des Affaires - Université de Perpignan (2004)",
+                    "Master en Sciences Criminelles et Criminologie (2012)",
+                    "Master en Communication Politique (2016)",
+                    "Doctorant en Droit Public"
+                ],
+                "positions": [
+                    "Membre du Conseil de l’Ordre des Avocats de Casablanca (2015/2017)",
+                    "Secrétaire Général de l’AJAC (2007/2009)"
+                ],
+                "social": [
+                    "Facebook"
+                ],
+                "image": "eqq.webp"
+            },
+            {
+                "name": "Me. Mohamed ENNOUINI",
+                "bar": "Barreau de Casablanca",
+                "since": 2000,
+                "court": "Cour de Cassation",
+                "education": [
+                    "Diplôme en Droit - Université Hassan II, Mohammedia",
+                    "Master en Droit des Affaires (en cours)"
+                ],
+                "email": "me.ennouini@cabinetcostas.net",
+                "social": [
+                    "Facebook"
+                ],
+                "image": "equ.webp"
+            },
+            {
+                "name": "Me. El Hassan ESSONNI",
+                "bar": "Barreau de Casablanca",
+                "since": 2000,
+                "court": "Cour de Cassation",
+                "education": [
+                    "Diplôme en Droit - Université Hassan II, Casablanca",
+                    "Master en Droit des Affaires (français) - 2010"
+                ],
+                "email": "me.essonni@cabinetcostas.net",
+                "social": [
+                    "Facebook"
+                ],
+                "image": "er.webp"
+            }
+        ]
+    }
+}

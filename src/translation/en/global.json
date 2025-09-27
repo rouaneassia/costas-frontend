@@ -1,0 +1,310 @@
+{
+    "header": {
+        "home": "Home",
+        "about": "About",
+        "domaine": {
+            "title": "Areas of Expertise"
+        },
+        "contact": "Contact Us",
+        "team": "Team",
+        "publication": "Publication",
+        "support": "Contact us 24/7",
+        "login": "Login"
+    },
+    "home": {
+        "navbar2": {
+            "title": "Legal Fields",
+            "familleaux": {
+                "title": "Family Disputes in Morocco",
+                "text": "Family matters such as divorces, child custody, or conflicts between family members are governed by the Family Code (Moudawana). Mediation and conciliation are often favored before resorting to the courts."
+            },
+            "accident": {
+                "title": "Road Accident Cases",
+                "text": "Victims of traffic accidents benefit from a compensation system regulated by Moroccan law, notably the mandatory insurance law. Compensation procedures require rigorous expertise to assess damages."
+            },
+            "internationales": {
+                "title": "International Cases",
+                "text": "Disputes involving foreign elements, whether concerning family, inheritance, or contracts, require a thorough analysis of conflict of law rules and often international judicial cooperation."
+            },
+            "successorales": {
+                "title": "Inheritance Cases",
+                "text": "Inheritance settlement in Morocco relies on traditional Muslim law codified in the Moudawana, as well as the Civil Code for some patrimonial aspects. Inheritance conflicts can become complicated when involving assets located abroad."
+            }
+        },
+        "navbar3": {
+            "procès gagnés": {
+                "titre": "Over 1000 Cases Won",
+                "contenu": "To date, more than 1,000 clients have successfully resolved legal disputes."
+            },
+            "pays": {
+                "titre": "In Over 40 Countries",
+                "contenu": "Our firm provides legal support within Morocco."
+            },
+            "clients": {
+                "titre": "With Over 1000 Clients",
+                "contenu": "We do not require any upfront payment and provide full legal support."
+            }
+        },
+        "navbar4": {
+            "title": "COSTAS Law Firm",
+            "titre": "Expertise, Foresight and Defense of Rights in a Global Vision",
+            "text": [
+                "Having acquired undeniable experience in the traditional practice of the legal profession, the founders of the COSTAS Law Firm set themselves the goal of contributing to the modernization of the profession in Morocco and its integration into the global development also experienced by justice and law worldwide.",
+                "This vision is our driving force within our professional institutions, in our actions within civil society, and especially in the daily practice of our profession.",
+                "For us, the legal profession carries the values of human rights and the active and uncompromising defense of individual and collective rights and the rule of law.",
+                "Morocco presents a very attractive economic and social potential. Properly showcasing this potential requires the lawyer to act as a guarantor of the legal and legitimate interests of stakeholders, by contributing to the establishment and respect of the rule of law.",
+                "Recognized as specialists in litigation and pre-litigation, we are convinced that our mission of defense and legal advice would not be complete without anticipating, understanding, and managing our clients’ risks.",
+                "This is why we build lasting partnerships with them, enabling us to have a broad and comprehensive understanding of their needs and to anticipate the risks they are or will be facing. Our firm’s support allows them to act proactively rather than suffer judicial uncertainty.",
+                "We rely on our practice before civil, criminal, and commercial courts, and our litigation experience, to identify and implement solutions tailored to each of our clients’ needs.",
+                "Our desire to anticipate in order to defend better naturally leads us to address today’s fundamental legal issues, such as corporate social responsibility, sustainable development, and international criminal law.",
+                "As part of this forward-looking approach, we are particularly committed to the open-mindedness and initiatives of all COSTAS Law Firm collaborators.",
+                "Their actions and stances on legal issues such as corporate social responsibility, sustainable development, and international criminal law form one of the pillars of the firm, anchoring it in the reality of today’s society.",
+                "We put our expertise and personal commitment into every case entrusted to us and commit to being transparent both in the strategy adopted and the method of calculating our fees."
+            ]
+        }
+    },
+    "email": {
+        "title": "We will answer all your legal questions as soon as possible.",
+        "subtitle": "Consultation",
+        "form": {
+            "name": "Name",
+            "email": "Email",
+            "phone": "Phone",
+            "subjectPlaceholder": "Inheritance",
+            "subjectOptions": {
+                "heritage": "Inheritance",
+                "accident": "Accident",
+                "contrat": "Insurance payments",
+                "autre": "Other"
+            },
+            "message": "Message",
+            "send": "Send",
+            "sending": "Sending...",
+            "success": "✅ Thank you for your message. We have received it and a lawyer will contact you shortly.",
+            "error": "❌ Network error. Please try again later."
+        }
+    },
+    "footer": {
+        "description": "Specialized law firm with over 20 years of experience. High-quality legal services.",
+        "expertise": {
+            "title": "Fields of Expertise",
+            "list": [
+                "Business Law",
+                "Family Law",
+                "Criminal Law",
+                "Real Estate Law"
+            ]
+        },
+        "contact": {
+            "title": "Contact",
+            "phone": "+212 5 22 30 07 25",
+            "email": "contact@cabinetcostas.net",
+            "hours": [
+                "Mon – Fri: 8:30 AM - 6:30 PM",
+                "Sat: 10:00 AM - 2:00 PM"
+            ],
+            "addressTitle": "Address",
+            "address": {
+                "line1": "Avenue des FAR, Rue Mohamed Errachid",
+                "line2": "Iman Center, 7th floor, Apt 4 & 5",
+                "city": "Casablanca 20300, Morocco"
+            }
+        },
+        "rights": "All rights reserved."
+    },
+    "about": {
+        "navprops": {
+            "title": "About Costas Law Firm"
+        },
+        "cabinetpresentation": {
+            "title": "COSTAS Law Firm",
+            "content": [
+                "The COSTAS Law Firm, a professional civil company of lawyers, is composed of a team of seven experienced lawyers who have been partners since January 1, 2013.",
+                "The legal profession in Morocco, rooted in centuries-old traditions, was first regulated by the Dahir of August 12, 1913, forming the first Civil Procedure Code. The current law regulating the profession dates from October 20, 2008.",
+                "The SCPA structure was introduced into Moroccan legislation by Law No. 29/08, promulgated by the Dahir of October 20, 2008. Firms adopting this form of practice are still very rare.",
+                "The founding partners of COSTAS practiced individually for a minimum of ten years before forming an SCPA.",
+                "From its creation, thanks to its unprecedented combination of expertise, COSTAS quickly established itself as a reference, as acknowledged by professionals."
+            ],
+            "domains_title": "Areas of Practice & Values",
+            "domains_content": [
+                "The firm supports its clients through advice, support, assistance, pre-litigation and litigation, in various fields: civil, criminal, and commercial law. Its uniqueness lies in two main features.",
+                "The first is its proactive approach, aiming to advise clients on anticipating risks to prevent potential liability.",
+                "The second is the diversity of expertise within its team, allowing intervention in business criminal law, corporate and insolvency law, sports law, health law, administrative and tax litigation, renewable energy law, land law, association and public freedoms law, labor law, and more.",
+                "The COSTAS Law Firm is driven by strong convictions, particularly its members’ commitment to sustainable development and human rights. Each lawyer sees legal practice as a mission to uphold law, freedoms, and legality, which gives them strength and fulfillment in serving individuals and corporations alike."
+            ]
+        },
+         
+            "propsavocats": {
+                "title": "COSTAS Law Firm Specialization",
+                "content": [
+                    "Thanks to the unprecedented number of skills it has brought together, the COSTAS Law Firm quickly established itself as a national reference, as recognized by legal professionals.",
+                    "The COSTAS Law Firm supports its clients with legal advice, assistance, guidance, pre-litigation and litigation in various fields: civil, criminal, and commercial law."
+                ],
+                "counters": {
+                    "wonCases": "Cases Won",
+                    "lawyers": "Expert Lawyers",
+                    "clients": "Happy Clients",
+                    "countries": "Countries Served"
+                }
+            }
+        },
+    
+    "domaines": {
+        "title": "Areas of Expertise",
+        "array": [
+            {
+                "title": "Inheritance Disputes",
+                "subtitle": "International Estate Management",
+                "description": "We assist you with legal procedures related to assets located abroad with expertise and efficiency."
+            },
+            {
+                "title": "Road Accidents",
+                "subtitle": "International Compensation",
+                "description": "Get your compensation in case of an accident abroad with the help of our specialized lawyers."
+            },
+            {
+                "title": "Fatal Accidents",
+                "subtitle": "Assistance and Compensation",
+                "description": "We help families obtain justice and compensation following a death caused by a road accident."
+            },
+            {
+                "title": "Commercial Law",
+                "subtitle": "Business and Corporate Affairs",
+                "description": "Advice and litigation in business law, commercial contracts, companies, and partner disputes."
+            },
+            {
+                "title": "Family Law",
+                "subtitle": "Marriage, Divorce, Custody",
+                "description": "Assistance in divorce cases, alimony, child custody, and family inheritance."
+            },
+            {
+                "title": "Criminal Law",
+                "subtitle": "Criminal Defense",
+                "description": "Representation of clients in criminal proceedings, whether accused or victims."
+            },
+            {
+                "title": "Labor Law",
+                "subtitle": "Employers and Employees",
+                "description": "Management of labor disputes, dismissals, contracts, and collective negotiations."
+            },
+            {
+                "title": "Public Law",
+                "subtitle": "Relations with Administration",
+                "description": "Administrative litigation, civil service, urban planning, and public contracts."
+            },
+            {
+                "title": "Tax Law",
+                "subtitle": "Taxation for Individuals and Businesses",
+                "description": "Tax optimization, audits, and litigation with the tax authorities."
+            },
+            {
+                "title": "International Law",
+                "subtitle": "Cross-border Affairs",
+                "description": "Management of conflicts and contracts involving multiple countries or legal systems."
+            },
+            {
+                "title": "Insurance Law",
+                "subtitle": "Life, Health, Auto Insurance",
+                "description": "Disputes with insurance companies, refusal of compensation or poor damage assessment."
+            },
+            {
+                "title": "Environmental Law",
+                "subtitle": "Ecology and Environmental Litigation",
+                "description": "Defense of interests in cases of pollution, environmental damage, or projects with ecological impact."
+            }
+        ]
+    },
+    "navcontact": {
+        "title": "Contact us"
+    },
+    "cardequipe": {
+        "title": "Our Team",
+        "equipe": [
+            {
+                "name": "Me. Mohamed AGHNAJ",
+                "bar": "Casablanca Bar Association",
+                "since": 1998,
+                "court": "Court of Cassation",
+                "education": [
+                    "Law Degree - Mohamed Ben Abdallah University, Fez"
+                ],
+                "positions": [
+                    "Member of the Casablanca Bar Council (2012/2014)",
+                    "Member of the Casablanca Bar Council (2018/2020)",
+                    "Member of the National Board of the Moroccan Bar Association ABAM (2015/2017)"
+                ],
+                "email": "me.aghnaj@cabinetcostas.net",
+                "social": [
+                    "Facebook",
+                    "LinkedIn"
+                ],
+                "image": "equipe.webp"
+            },
+            {
+                "name": "Me. Jilali El FADILI",
+                "bar": "Casablanca Bar Association",
+                "since": 1999,
+                "court": "Court of Cassation",
+                "education": [
+                    "Law Degree - Hassan II University, Casablanca"
+                ],
+                "email": "me.fadili@cabinetcostas.net",
+                "social": [
+                    "Facebook"
+                ],
+                "image": "eq.webp"
+            },
+            {
+                "name": "Me. Lahcen DADSI",
+                "bar": "Casablanca Bar Association",
+                "since": 1999,
+                "court": "Court of Cassation",
+                "education": [
+                    "Law Degree - Hassan II University, Mohammedia",
+                    "Master in Business Law - University of Perpignan (2004)",
+                    "Master in Criminal Sciences and Criminology (2012)",
+                    "Master in Political Communication (2016)",
+                    "PhD Candidate in Public Law"
+                ],
+                "positions": [
+                    "Member of the Casablanca Bar Council (2015/2017)",
+                    "Secretary General of AJAC (2007/2009)"
+                ],
+                "social": [
+                    "Facebook"
+                ],
+                "image": "eqq.webp"
+            },
+            {
+                "name": "Me. Mohamed ENNOUINI",
+                "bar": "Casablanca Bar Association",
+                "since": 2000,
+                "court": "Court of Cassation",
+                "education": [
+                    "Law Degree - Hassan II University, Mohammedia",
+                    "Master in Business Law (ongoing)"
+                ],
+                "email": "me.ennouini@cabinetcostas.net",
+                "social": [
+                    "Facebook"
+                ],
+                "image": "equ.webp"
+            },
+            {
+                "name": "Me. El Hassan ESSONNI",
+                "bar": "Casablanca Bar Association",
+                "since": 2000,
+                "court": "Court of Cassation",
+                "education": [
+                    "Law Degree - Hassan II University, Casablanca",
+                    "Master in Business Law (French) - 2010"
+                ],
+                "email": "me.essonni@cabinetcostas.net",
+                "social": [
+                    "Facebook"
+                ],
+                "image": "er.webp"
+            }
+        ]
+    }
+}
